@@ -125,3 +125,4 @@ Junior Data Analyst | Reporting | Business Intelligence | Customer Insights
 📧 danyd686@gmail.com
 
 🔗 LinkedIn: (Add your LinkedIn URL here)
+```
