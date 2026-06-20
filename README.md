@@ -113,6 +113,9 @@ Variables analyzed:
 ### Outliers Analysis
 
 ![Boxplot](images/outliers_boxplot.png)
+
+```
+
 ## 👨‍💻 Author
 
 Danilo Elías Gallego López
