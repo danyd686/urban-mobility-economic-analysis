@@ -118,13 +118,15 @@ Variables analyzed:
 
 ```
 
+---
+
 ## 👨‍💻 Author
 
-Danilo Elías Gallego López
+**Danilo Elías Gallego López**
 
-Junior Data Analyst | Reporting | Business Intelligence | Customer Insights
+Junior Data Analyst | Reporting | Business Intelligence | Sales Analytics
 
 📧 danyd686@gmail.com
 
-🔗 LinkedIn: (Add your LinkedIn URL here)
-```
+🔗 LinkedIn: Add your profile link here
+
