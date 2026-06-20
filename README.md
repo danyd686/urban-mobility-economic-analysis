@@ -96,24 +96,6 @@ Variables analyzed:
 └── README.md
 
 ```
-## 📊 Visualizations
-
-### Traffic Congestion vs GDP per Capita
-
-![Traffic vs GDP](images/bar_graph_jams_delay_andcity_gdp_capita.png)
-
-### Unemployment and Urban Mobility
-
-![Unemployment Analysis](images/bars_graph_deemployment_movility.png)
-
-### Economic Distribution
-
-![Distribution](images/Histogram_and_economy_distribution.png)
-
-### Outliers Analysis
-
-![Boxplot](images/Outliners_and_boxplot.png)
----
 
 ## 👨‍💻 Author
 
