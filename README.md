@@ -64,7 +64,26 @@ Variables analyzed:
 - Continuously monitor traffic indicators to identify future opportunities.
 
 ---
+---
+## 📊 Visualizations
 
+### Traffic Congestion vs GDP per Capita
+
+![Traffic vs GDP](images/traffic_vs_gdp.png)
+
+### Unemployment and Urban Mobility
+
+![Unemployment Analysis](images/unemployment_analysis.png)
+
+### Economic Distribution
+
+![Distribution](images/economic_distribution.png)
+
+### Outliers Analysis
+
+![Boxplot](images/outliers_boxplot.png)
+
+---
 ## 🧰 Technologies Used
 
 - Python
@@ -96,23 +115,6 @@ Variables analyzed:
 └── README.md
 
 ```
-## 📊 Visualizations
-
-### Traffic Congestion vs GDP per Capita
-
-![Traffic vs GDP](images/traffic_vs_gdp.png)
-
-### Unemployment and Urban Mobility
-
-![Unemployment Analysis](images/unemployment_analysis.png)
-
-### Economic Distribution
-
-![Distribution](images/economic_distribution.png)
-
-### Outliers Analysis
-
-![Boxplot](images/outliers_boxplot.png)
 
 ```
 
