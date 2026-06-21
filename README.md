@@ -132,6 +132,7 @@ Variables analyzed:
 Junior Data Analyst | Reporting | Business Intelligence | Sales Analytics
 
 📧 danyd686@gmail.com
-* 🔗 LinkedIn: www.linkedin.com/in/danilogallego
+
+🔗 LinkedIn: www.linkedin.com/in/danilogallego
 ---
 
