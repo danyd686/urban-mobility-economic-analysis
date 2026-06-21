@@ -106,7 +106,8 @@ Variables analyzed:
 
 ## 📁 Repository Structure
 
-```
+---
+
 
 ├── data/
 ├── notebooks/
@@ -114,7 +115,7 @@ Variables analyzed:
 ├── images/
 └── README.md
 
-```
+---
 
 
 ## 👨‍💻 Author
@@ -126,4 +127,5 @@ Junior Data Analyst | Reporting | Business Intelligence | Sales Analytics
 📧 danyd686@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/danilogallego
+---
 
