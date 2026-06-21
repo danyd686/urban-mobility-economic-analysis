@@ -106,7 +106,7 @@ Variables analyzed:
 
 ## 📁 Repository Structure
 
----
+```
 
 
 ├── data/
@@ -115,7 +115,7 @@ Variables analyzed:
 ├── images/
 └── README.md
 
----
+```
 
 
 ## 👨‍💻 Author
