@@ -116,7 +116,7 @@ Variables analyzed:
 └── README.md
 
 ```
-
+---
 
 ## 👨‍💻 Author
 
