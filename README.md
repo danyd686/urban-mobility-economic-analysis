@@ -48,10 +48,10 @@ Variables analyzed:
 ---
 ## 🚀 Project Impact
 
-Analyzed 15 LATAM cities  
-Integrated 2 external datasets  
-Identified 3 priority cities for infrastructure investment  
-Detected traffic delays exceeding 1700 seconds in high-congestion markets  
+- Analyzed 15 LATAM cities  
+- Integrated 2 external datasets  
+- Identified 3 priority cities for infrastructure investment  
+- Detected traffic delays exceeding 1700 seconds in high-congestion markets  
 ---
 
 ## 📊 Key Findings
