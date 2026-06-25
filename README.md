@@ -11,9 +11,9 @@ The objective was to identify traffic congestion patterns and explore how mobili
 
 ## 🎯 Business Problem
 
-Traffic congestion is a major challenge across Latin America, affecting productivity, economic development, and quality of life.
+Traffic congestion negatively impacts economic productivity and quality of life in large urban markets.
 
-The goal of this analysis was to integrate mobility and economic datasets to identify trends, compare cities, and generate actionable insights for urban planning and investment prioritization.
+The objective was to identify cities with the highest congestion levels and prioritize investment opportunities.
 
 ---
 
