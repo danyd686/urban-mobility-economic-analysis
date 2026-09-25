@@ -101,22 +101,15 @@ Variables analyzed:
 ---
 ## 🧰 Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+## 🛠️ Tools & Analytical Decisions
 
-### Analytical Skills
-
-- Data Cleaning
-- Data Transformation
-- Exploratory Data Analysis (EDA)
-- Correlation Analysis
-- Data Visualization
-- Business Intelligence
-- Data Storytelling
-
+* **Python & Pandas:** Used to clean, transform, integrate, and analyze mobility and economic datasets.
+* **Exploratory Data Analysis:** Reviewed distributions, outliers, and differences between cities before performing comparisons.
+* **Data Visualization:** Created visualizations to make differences in congestion and economic indicators easier to identify and interpret.
+* **Correlation Analysis:** Tested the relationship between GDP per capita and congestion instead of assuming that economic performance directly explained mobility conditions.
+* **Comparative Analysis:** Combined mobility and economic indicators to evaluate cities from multiple perspectives.
+* **Data Interpretation:** Focused on identifying meaningful patterns and differences rather than simply reporting descriptive statistics.
+* **Business Communication:** Translated analytical findings into clear conclusions and recommendations that could support urban planning and investment decisions.
 ---
 
 ## 📁 Repository Structure
