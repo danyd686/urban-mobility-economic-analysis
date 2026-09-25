@@ -16,6 +16,14 @@ The objective was to identify cities with the highest congestion levels and prio
 
 ---
 
+## 🚀 My contribution to the project
+
+- Analyzed 15 LATAM cities  
+- Integrated 2 external datasets  
+- Identified 3 priority cities for infrastructure investment  
+- Detected traffic delays exceeding 1700 seconds in high-congestion markets  
+
+---
 ## 📂 Dataset
 
 Two external datasets were used:
@@ -44,13 +52,6 @@ Variables analyzed:
 7. Insight generation
 8. Business recommendations
 
----
-## 🚀 My contribution to the project
-
-- Analyzed 15 LATAM cities  
-- Integrated 2 external datasets  
-- Identified 3 priority cities for infrastructure investment  
-- Detected traffic delays exceeding 1700 seconds in high-congestion markets  
 ---
 
 ## 📊 Key Findings & Learning
