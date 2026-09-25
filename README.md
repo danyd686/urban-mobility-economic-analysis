@@ -45,7 +45,7 @@ Variables analyzed:
 8. Business recommendations
 
 ---
-## 🚀 Project Impact
+## 🚀 My contribution to the project
 
 - Analyzed 15 LATAM cities  
 - Integrated 2 external datasets  
@@ -53,15 +53,24 @@ Variables analyzed:
 - Detected traffic delays exceeding 1700 seconds in high-congestion markets  
 ---
 
-## 📊 Key Findings
+## 📊 Key Findings & Learning
 
 - São Paulo, Bogotá, and Lima presented some of the highest congestion levels.
 - Montevideo showed strong economic performance with relatively low traffic congestion.
 - No direct relationship was found between GDP per capita and traffic congestion.
 - Several cities with high congestion may benefit from mobility improvement initiatives.
+- Found that GDP per capita alone did not directly explain congestion levels.
+- Strengthened skills in Python, EDA, data visualization, and analytical storytelling.
+  
+---
+## 🔎 Approach & Key Decisions
+
+- Combined mobility and economic indicators to analyze congestion from multiple perspectives.
+- Reviewed data distributions and potential outliers before comparing cities.
+- Used correlation analysis to test the relationship between GDP per capita and congestion.
+- Avoided assuming that stronger economic performance automatically meant lower congestion.
 
 ---
-
 ## 💡 Business Recommendations
 
 - Prioritize investment in cities with high congestion and lower economic efficiency.
