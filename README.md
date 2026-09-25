@@ -59,7 +59,6 @@ Variables analyzed:
 - Montevideo showed strong economic performance with relatively low traffic congestion.
 - No direct relationship was found between GDP per capita and traffic congestion.
 - Several cities with high congestion may benefit from mobility improvement initiatives.
-- Found that GDP per capita alone did not directly explain congestion levels.
 - Strengthened skills in Python, EDA, data visualization, and analytical storytelling.
   
 ---
